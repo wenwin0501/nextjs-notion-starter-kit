@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   weibo: 'wenwin0501',
-  github: 'wenwin0501',
+  qq: 'wenwin0501',
   douban: 'wenwin0501',
 
   // default notion icon and cover images for site-wide consistency (optional)
